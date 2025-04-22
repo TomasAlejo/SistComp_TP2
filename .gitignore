@@ -1,0 +1,22 @@
+# Ignorar binarios y archivos objeto compilados
+/build/
+*.o
+*.out
+*.exe
+
+
+# Archivos de backup o edición
+*~
+*.swp
+*.tmp
+*.bak
+
+# Archivos de depuración
+*.log
+*.core
+vgcore.*
+
+# Configuración de editores
+.vscode/
+.idea/
+
