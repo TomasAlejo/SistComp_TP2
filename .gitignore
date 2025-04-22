@@ -4,10 +4,6 @@
 *.out
 *.exe
 
-# Ignorar imágenes generadas temporalmente
-*.png
-*.jpg
-*.svg
 
 # Archivos de backup o edición
 *~
